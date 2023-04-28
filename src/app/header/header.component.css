@@ -4,13 +4,13 @@ body {
 }
 
 header {
-	background-color: #9b73f77a;
-	color: #8705d3;
+	background-color: #000000;
+	color: #ffabab;
 	padding: 20px;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-    border-bottom: solid #bf3afd;
+    border-bottom: solid #ffabab;
 }
 
 #logo {
@@ -42,5 +42,5 @@ nav a {
 }
 
 nav a:hover {
-	color: #8705d3;
+	color: #ffabab;
 }

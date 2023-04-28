@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+
 import { Component, OnInit } from '@angular/core';
 
 @Component({
@@ -11,4 +11,4 @@ export class CardsComponent {
   public Titulo:string= "databinding";
   constructor (){ }
   ngOnInit(): void {
-}
+}}
